@@ -1,2 +1,4 @@
 # hello-world
-just another reposite
+
+Hi I'm Katinan
+I took a great time to learn about github
